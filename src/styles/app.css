@@ -1,0 +1,12 @@
+.contact_list {
+  background: grey;
+  padding: 2rem;
+  margin: 10px;
+  border-radius: 20px;
+}
+.contact {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+}
